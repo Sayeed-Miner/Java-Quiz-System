@@ -1,0 +1,330 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Acceptance Testing",
+    "option 4": "Unit Testing",
+    "question": "Which testing type validates whether the software functions properly after a change?",
+    "option 1": "Regression Testing",
+    "option 2": "Alpha Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Integration Testing",
+    "option 4": "Stress Testing",
+    "question": "Which testing checks the software's ability to recover from crashes or hardware failures?",
+    "option 1": "Recovery Testing",
+    "option 2": "Load Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Quick Assessment",
+    "option 4": "Quality Adjustment",
+    "question": "What does the acronym 'QA' stand for in software development?",
+    "option 1": "Quality Analysis",
+    "option 2": "Quality Assurance"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Alpha Testing",
+    "option 4": "Beta Testing",
+    "question": "Which testing verifies the software's compatibility with different operating systems?",
+    "option 1": "Acceptance Testing",
+    "option 2": "Compatibility Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Defect Discovery Rate",
+    "option 4": "Defect Severity",
+    "question": "Which metric measures the number of defects identified per line of code?",
+    "option 1": "Defect Density",
+    "option 2": "Defect Removal Efficiency"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Verifying database integrity",
+    "option 4": "Determining system response under peak loads",
+    "question": "What is the primary focus of stress testing?",
+    "option 1": "Assessing user interface functionality",
+    "option 2": "Identifying defects in specific modules"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Ad-hoc Testing",
+    "option 4": "Black-box Testing",
+    "question": "Which testing technique examines the software's functionality without considering its internal structure?",
+    "option 1": "White-box Testing",
+    "option 2": "Gray-box Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Finding defects in the software",
+    "option 4": "Creating test cases",
+    "question": "What is the main objective of code review in software development?",
+    "option 1": "Documenting system architecture",
+    "option 2": "Evaluating software performance"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Regression Testing",
+    "option 4": "Smoke Testing",
+    "question": "Which type of testing evaluates the software against the end user's requirements?",
+    "option 1": "System Testing",
+    "option 2": "Acceptance Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Regression Testing",
+    "option 4": "Alpha Testing",
+    "question": "Which testing technique involves executing test cases that failed in previous testing cycles to ensure they work now?",
+    "option 1": "Smoke Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Checking for defects in the software",
+    "option 4": "Assessing the software's performance under load",
+    "question": "What is the primary goal of usability testing?",
+    "option 1": "Ensuring the software functions with other systems",
+    "option 2": "Evaluating the software's user-friendliness"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Agile model",
+    "option 4": "Spiral model",
+    "question": "Which software development model involves iterative development cycles called sprints?",
+    "option 1": "Waterfall model",
+    "option 2": "V-model"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Exploratory Testing",
+    "option 4": "Boundary Testing",
+    "question": "Which testing technique is also known as 'fuzz' or 'monkey' testing, focusing on random inputs?",
+    "option 1": "Ad-hoc Testing",
+    "option 2": "Monkey Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "MTTR (Mean Time to Restore)",
+    "option 4": "MTTD (Mean Time to Detect)",
+    "question": " Which metric measures the average time taken to repair a system after a failure?",
+    "option 1": "MTBF (Mean Time Between Failures)",
+    "option 2": "MTTF (Mean Time to Failure)"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Documenting user requirements",
+    "option 4": "Managing changes systematically",
+    "question": "What is the primary goal of configuration management in software development?",
+    "option 1": "Ensuring software security",
+    "option 2": "Enhancing software performance"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Security Testing",
+    "option 4": "Compliance Testing",
+    "question": "Which type of testing verifies whether the software meets specific international standards?",
+    "option 1": "Acceptance Testing",
+    "option 2": "Performance Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Comprehensive Management Model for Integration",
+    "option 4": "Computerized Methodology for Measurement and Improvement",
+    "question": "What does the acronym 'CMMI' stand for in software engineering?",
+    "option 1": "Capability Maturity Model Integration",
+    "option 2": "Continuous Monitoring Model for Implementation"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Security Testing",
+    "option 4": "Usability Testing",
+    "question": "Which testing type evaluates the software's ability to continue operating during and after a disaster?",
+    "option 1": "Disaster Recovery Testing",
+    "option 2": "Resilience Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Reliability Testing",
+    "option 4": "Scalability Testing",
+    "question": "Which testing verifies the software's capability to handle varying volumes of data?",
+    "option 1": "Load Testing",
+    "option 2": "Stress Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Regression Testing",
+    "option 4": "System Testing",
+    "question": "Which testing type evaluates how well the software performs on different devices, browsers, or operating systems?",
+    "option 1": "Integration Testing",
+    "option 2": "Compatibility Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "International Organization for Standardization",
+    "option 4": "Internal System Optimization",
+    "question": "What does the acronym 'ISO' stand for in the context of quality standards?",
+    "option 1": "International Software Organization",
+    "option 2": "Information Security Operations"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Gray-box Testing",
+    "option 4": "Ad-hoc Testing",
+    "question": "Which testing technique examines the behavior of a software system for a set of inputs and outputs?",
+    "option 1": "White-box Testing",
+    "option 2": "Black-box Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "MTDT (Mean Time to Detect)",
+    "option 4": "MTBF (Mean Time Between Failures)",
+    "question": "Which metric measures the average time taken between failures in a software system?",
+    "option 1": "MTTF (Mean Time to Failure)",
+    "option 2": "MTTR (Mean Time to Restore)"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Implementation",
+    "option 4": "Requirement Analysis",
+    "question": "Which phase of the software development life cycle involves detailed planning for the software system?",
+    "option 1": "Design",
+    "option 2": "Maintenance"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Acceptance Testing",
+    "option 4": "Integration Testing",
+    "question": "Which testing technique focuses on ensuring that individual units or components of a software work independently?",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Integration Testing",
+    "option 4": "Compatibility Testing",
+    "question": "Which type of testing checks whether the application functions properly with other hardware or software?",
+    "option 1": "System Testing",
+    "option 2": "Acceptance Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Beta Testing",
+    "option 4": "System Testing",
+    "question": "Which testing type examines the software against predefined specifications to ensure it meets requirements?",
+    "option 1": "Acceptance Testing",
+    "option 2": "Alpha Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Testing only specific functionalities",
+    "option 4": "Learning about the system while testing and designing tests dynamically",
+    "question": "What is the primary goal of exploratory testing?",
+    "option 1": "Following predefined test cases rigorously",
+    "option 2": "Automating the testing process"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Gray-box Testing",
+    "option 4": "Boundary Testing",
+    "question": "Which testing technique involves executing test cases based on knowledge of the internal code structure?",
+    "option 1": "Black-box Testing",
+    "option 2": "White-box Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Evaluating boundary conditions of input ranges",
+    "option 4": "Verifying database integrity",
+    "question": "What is the primary focus of boundary value analysis in testing?",
+    "option 1": "Identifying defects in specific modules",
+    "option 2": "Assessing system performance under peak loads"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Performance Testing",
+    "option 4": "Scalability Testing",
+    "question": "Which testing technique is used to determine how a system performs under excessive loads?",
+    "option 1": "Stress Testing",
+    "option 2": "Load Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Testing individual components of the software",
+    "option 4": "Ensuring the software meets end-user requirements",
+    "question": "What is the primary objective of acceptance testing?",
+    "option 1": "Verifying the system's functionality",
+    "option 2": "Identifying defects in the code"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Waterfall model",
+    "option 4": "V-model",
+    "question": "Which software development model emphasizes frequent deliveries in short cycles?",
+    "option 1": "Agile model",
+    "option 2": "Spiral model"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "MTTF (Mean Time to Failure)",
+    "option 4": "MTTD (Mean Time to Detect)",
+    "question": "Which metric measures the average time taken to detect a defect in the software?",
+    "option 1": "MTBF (Mean Time Between Failures)",
+    "option 2": "MTTR (Mean Time to Restore)"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "To identify defects in the software",
+    "option 4": "To outline testing objectives and activities",
+    "question": " What is the purpose of a test plan in software testing?",
+    "option 1": "To create test cases",
+    "option 2": "To document system architecture"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Monkey Testing",
+    "option 4": "Random Testing",
+    "question": "Which testing technique involves assessing the software's response to unexpected or random inputs?",
+    "option 1": "Exploratory Testing",
+    "option 2": "Ad-hoc Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To ensure the software meets end-user requirements",
+    "option 4": "To identify defects in the code",
+    "question": "What is the primary goal of regression testing?",
+    "option 1": "To test the software's overall functionality",
+    "option 2": "To verify changes haven't adversely affected existing functionalities"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Gray-box Testing",
+    "option 4": "Boundary Testing",
+    "question": "Which testing technique uses knowledge of the internal code structure to design test cases?",
+    "option 1": "White-box Testing",
+    "option 2": "Black-box Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Defect Density",
+    "option 4": "Defect Severity",
+    "question": "Which metric measures the percentage of defects found and fixed before software release?",
+    "option 1": "Defect Removal Efficiency",
+    "option 2": "Defect Discovery Rate"
+  }
+]
