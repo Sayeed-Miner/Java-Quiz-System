@@ -33,4 +33,4 @@ ___
 
 ![Student Perspective 4](https://github.com/Sayeed-Miner/Java-Quiz-System/assets/52811620/7449362e-e8e5-4b72-b0c4-7a9f0a7fc03b)
 ![Student Perspective 5](https://github.com/Sayeed-Miner/Java-Quiz-System/assets/52811620/9d3229f5-e589-4701-b428-dbca191a771a)
-
+![Student Perspective 6](https://github.com/Sayeed-Miner/Java-Quiz-System/assets/52811620/b4a27be6-208d-4433-a37b-2ec40ba1588b)
